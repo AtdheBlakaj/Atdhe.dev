@@ -1,1 +1,1 @@
-# My portfolio webpage, built using HTML,CSS&JS.
+# My portfolio website, built using HTML,CSS&JS.
